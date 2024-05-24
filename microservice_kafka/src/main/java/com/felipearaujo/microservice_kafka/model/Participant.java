@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Document("participants")
+@Document("participant_kafka")
 public class Participant {
 
     @Id
